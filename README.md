@@ -43,3 +43,56 @@ I first divided the dashboard into three sections: the top for the company's log
 
 For coherence in design, I used yellow and blue, the two colors prominent in the company's logo, throughout my visualization.
 
+## Individual Graphs and Maps & Business Insights
+
+Here, we provide magnified/detailed rendering of each graph and/or map in our main dashboard. We shall provide answers to the business questions based on the graphs.
+
+### Top/Bottom 5 Products By Sales
+
+![Top 5 products by sales]()
+
+![Bottom 5 products by sales]()
+
+We see that the top five products are as follows:
+
+1. Macbook Pro Laptop ($183.6K)
+2. iPhone ($116.9K)
+3. Google Phone ($88.2K)
+4. ThinkPad Laptop ($86K)
+5. 34K Ultrawide Monitor ($50K).
+
+We also see taht the bottom five products are as follows:
+
+1. AAA batteries, 4 pack ($2.1K)
+2. AA batteries, 4 pack ($2.4K)
+3. Wired Headphones ($5.4K)
+4. USB-C Charging Cable ($6.8K)
+5. LG Dryer ($7.2K)
+
+### Sales By Region
+
+![Sales by region]()
+
+Looking at the generated map, we see that regions such as San Francisco and Los Angeles see the biggest sales, followed by regions such as New York City and Boston. At the lower end we have Austin and Dallas having the lowest sales. The specific total sales amount for each region can be seen by hovering our mouse over specific region in the PowerBI Report.
+
+### All details about the products ordered in a given order
+
+We may apply various filters through the sliders on the left hand side of the main dashboard to see the values for specific product, range of dates, region, and order IDs.
+
+### Number of orders by Date / Month
+
+![Feb 15th - Mar 15th Total Number of Orders]()
+
+We may again use the slider to select a range of dates to see the total number of orders. The above is the result of applying the slider for the interseasonal period, between February 15th to Marhc 15th, inclusive.
+
+### Sales by Month
+
+![Sales by Month]()
+
+Based on the graph above, we see that we saw an increase in sales from January through March and saw a step decline in April.
+
+### Relationship between Sales and Quantity Ordered
+
+![Sales vs. Quantity Ordered]()
+
+From the visual, we see that, in general, there is an inverse relationship between the sales and the quantity ordered: in general, the lower the amount of sales, the higher the quantity ordered; and, in general, the higher the amount of sales, the lower the quantity ordered. This is expected, as not all customers have financial capacity or have immediate need to order an expensive item in large quantities.
