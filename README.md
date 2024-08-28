@@ -29,7 +29,7 @@ Each csv file contains the following columns:
 
 We shall seek to create a Power BI Report that answers the following questions:
 
-1. [What are top/bottom 5 products by sales?](#Top-Bottom-5-Products-By-Sales)
+1. [What are top/bottom 5 products by sales?](#Top-5-and-Bottom-5-Products-By-Sales)
 2. [Sales by region](#Sales-By-Region)
 3. All details about the products ordered in a given order
 4. Number of orders by date
@@ -47,7 +47,7 @@ For coherence in design, I used yellow and blue, the two colors prominent in the
 
 Here, we provide magnified/detailed rendering of each graph and/or map in our main dashboard. We shall provide answers to the business questions based on the graphs.
 
-### Top/Bottom 5 Products By Sales (#Top-Bottom-5-Products-By-Sales)
+### Top 5 and Bottom 5 Products By Sales
 
 ![Top 5 products by sales]()
 
