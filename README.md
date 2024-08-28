@@ -30,7 +30,7 @@ Each csv file contains the following columns:
 We shall seek to create a Power BI Report that answers the following questions:
 
 1. [What are top/bottom 5 products by sales?](#Top-Bottom-5-Products-By-Sales)
-2. Sales by region
+2. [Sales by region](#Sales-By-Region)
 3. All details about the products ordered in a given order
 4. Number of orders by date
 5. Sales by month
