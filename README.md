@@ -49,9 +49,9 @@ Here, we provide magnified/detailed rendering of each graph and/or map in our ma
 
 ### Top 5 and Bottom 5 Products By Sales
 
-![Top 5 products by sales]()
+![Top 5 products by sales](https://github.com/srheegit/Sales-Data-Analysis-with-Power-BI/blob/main/Screenshots/Top%205%20Products%20in%20Sales.png)
 
-![Bottom 5 products by sales]()
+![Bottom 5 products by sales](https://github.com/srheegit/Sales-Data-Analysis-with-Power-BI/blob/main/Screenshots/Bottom%205%20Products%20in%20Sales.png)
 
 We see that the top five products are as follows:
 
@@ -71,7 +71,7 @@ We also see taht the bottom five products are as follows:
 
 ### Sales By Region
 
-![Sales by region]()
+![Sales by region](https://github.com/srheegit/Sales-Data-Analysis-with-Power-BI/blob/main/Screenshots/Sales%20by%20Region.png)
 
 Looking at the generated map, we see that regions such as San Francisco and Los Angeles see the biggest sales, followed by regions such as New York City and Boston. At the lower end we have Austin and Dallas having the lowest sales. The specific total sales amount for each region can be seen by hovering our mouse over specific region in the PowerBI Report.
 
@@ -81,18 +81,18 @@ We may apply various filters through the sliders on the left hand side of the ma
 
 ### Number of orders by Date or Month
 
-![Feb 15th - Mar 15th Total Number of Orders]()
+![Feb 15th - Mar 15th Total Number of Orders](https://github.com/srheegit/Sales-Data-Analysis-with-Power-BI/blob/main/Screenshots/Feb15-Mar15%20Sales%20Data.png)
 
 We may again use the slider to select a range of dates to see the total number of orders. The above is the result of applying the slider for the interseasonal period, between February 15th to Marhc 15th, inclusive.
 
 ### Sales by Month
 
-![Sales by Month]()
+![Sales by Month](https://github.com/srheegit/Sales-Data-Analysis-with-Power-BI/blob/main/Screenshots/Sales%20by%20Month.png)
 
 Based on the graph above, we see that we saw an increase in sales from January through March and saw a step decline in April.
 
 ### Relationship between Sales and Quantity Ordered
 
-![Sales vs. Quantity Ordered]()
+![Sales vs. Quantity Ordered](https://github.com/srheegit/Sales-Data-Analysis-with-Power-BI/blob/main/Screenshots/Sales%20vs.%20Sum%20of%20Quantity%20Ordered.png)
 
 From the visual, we see that, in general, there is an inverse relationship between the sales and the quantity ordered: in general, the lower the amount of sales, the higher the quantity ordered; and, in general, the higher the amount of sales, the lower the quantity ordered. This is expected, as not all customers have financial capacity or have immediate need to order an expensive item in large quantities.
