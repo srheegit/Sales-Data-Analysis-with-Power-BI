@@ -31,11 +31,11 @@ We shall seek to create a Power BI Report that answers the following questions:
 
 1. [What are top/bottom 5 products by sales?](#Top-5-and-Bottom-5-Products-By-Sales)
 2. [Sales by region](#Sales-By-Region)
-3. All details about the products ordered in a given order
-4. Number of orders by date
-5. Sales by month
-6. Number of orders by month
-7. Relationship between sales and quantity ordered
+3. [All details about the products ordered in a given order](#All-details-about-the-products-ordered-in-a-given-order)
+4. [Number of orders by date](#Number-of-orders-by-Date-or-Month)
+5. [Sales by month](#Sales-By-Month)
+6. [Number of orders by month](#Number-of-orders-by-Date-or-Month)
+7. [Relationship between sales and quantity ordered](#Relationship-between-Sales-and-Quantity-Ordered)
 
 ## Process of Creating the Power BI Report
 
@@ -79,7 +79,7 @@ Looking at the generated map, we see that regions such as San Francisco and Los 
 
 We may apply various filters through the sliders on the left hand side of the main dashboard to see the values for specific product, range of dates, region, and order IDs.
 
-### Number of orders by Date / Month
+### Number of orders by Date or Month
 
 ![Feb 15th - Mar 15th Total Number of Orders]()
 
