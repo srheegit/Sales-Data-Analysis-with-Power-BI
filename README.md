@@ -35,3 +35,9 @@ We shall seek to create a Power BI Report that answers the following questions:
 6. Number of orders by month
 7. Relationship between sales and quantity ordered
 
+## Process of Creating the Power BI Report
+
+I first divided the dashboard into three sections: the top for the company's logo and titole, the left section for sliders, and the rest for KPIs, maps, and charts. To add visual engagement, I imported and included several small icons relevant to several KPIs, such as money bag for sales and a box for the number of products sold.
+
+For coherence in design, I used yellow and blue, the two colors prominent in the company's logo, throughout my visualization.
+
