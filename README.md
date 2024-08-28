@@ -1,6 +1,8 @@
 # Sales Data Analysis with Power BI
 We analyze a delivery service company's sales data using Power BI, creating a Power BI Report that answers relevant business questions that are outlined in the [Goal of the Power BI Report section](#Goal-of-the-Power-BI-Report).
 
+![Main Dashboard Screenshot](https://github.com/srheegit/Sales-Data-Analysis-with-Power-BI/blob/main/Screenshots/Main%20Dashboard.png)
+
 ## Business Requirement Document
 
 We work with our delivery service company's data. There are four policies that the company is governed under:
