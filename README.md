@@ -1,4 +1,4 @@
-# Sales Data Analysis with Power BI
+# Sales Data Analysis with Power BI ![PowerBI Icon](https://github.com/srheegit/Sales-Data-Analysis-with-Power-BI/blob/main/Icons/PowerBI%20icon.jpg)
 We analyze a delivery service company's sales data using Power BI, creating a Power BI Report that answers relevant business questions that are outlined in the [Goal of the Power BI Report section](#Goal-of-the-Power-BI-Report).
 
 ![Main Dashboard Screenshot](https://github.com/srheegit/Sales-Data-Analysis-with-Power-BI/blob/main/Screenshots/Main%20Dashboard.png)
