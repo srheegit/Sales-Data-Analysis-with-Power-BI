@@ -47,7 +47,7 @@ For coherence in design, I used yellow and blue, the two colors prominent in the
 
 Here, we provide magnified/detailed rendering of each graph and/or map in our main dashboard. We shall provide answers to the business questions based on the graphs.
 
-### Top/Bottom 5 Products By Sales
+### Top/Bottom 5 Products By Sales (#Top-Bottom-5-Products-By-Sales)
 
 ![Top 5 products by sales]()
 
