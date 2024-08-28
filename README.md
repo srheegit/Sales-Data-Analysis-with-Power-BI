@@ -1,5 +1,5 @@
 # Customer-Data-Analysis-with-Power-BI
-We analyze a delivery service company's sales data using Power BI, creating a Power BI Report that answers relevant business questions that are outlined in the 
+We analyze a delivery service company's sales data using Power BI, creating a Power BI Report that answers relevant business questions that are outlined in the [Goal of the Power BI Report section](## Goal of the Power BI Report).
 
 ## Business Requirement Document
 
